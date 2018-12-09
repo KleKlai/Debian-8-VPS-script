@@ -1,0 +1,5 @@
+Debain 8+ OpenVPN Server Script with Monitoring Website
+bash -c "$(wget https://git.io/fxXUc -qO-)"
+
+Updater (Squid, Web, Ovpn Server Config)
+bash -c "$(wget https://git.io/fxxLe -qO-)"
